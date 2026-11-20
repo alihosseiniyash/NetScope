@@ -43,7 +43,13 @@ Open the [NetScope web app](https://alihosseiniyash.github.io/NetScope/) once Gi
 2. Open it in a recent Chrome, Edge, Firefox, or Safari browser.
 3. Start calculating; the app doesn't require an internet connection.
 
-The downloadable HTML contains its CSS and JavaScript inline. The website version (`index.html`) is the same app with separate favicon links for browser and mobile shortcuts.
+The downloadable HTML contains its CSS and JavaScript inline. The website version (`index.html`) is the same app with a separate SVG favicon.
+
+## Publish the web demo
+
+In this repository, open **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, choose **main** and **/(root)**, then save. Once GitHub reports the site as deployed, the live URL should be:
+
+https://alihosseiniyash.github.io/NetScope/
 
 ## About the project
 
