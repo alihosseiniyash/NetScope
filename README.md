@@ -1,21 +1,16 @@
 <div align="center">
-
-<img src="assets/netscope-icon.svg" width="170" alt="NetScope logo">
-
-# NetScope
-### IP & Networking Workbench
-
-A lightweight, responsive networking calculator for IPv4, IPv6, subnet planning, routing, address conversions, performance, and packet analysis.
-
-**One HTML file · No installation · Works offline · Desktop & mobile**
-
-[**Try NetScope online**](https://alihosseiniyash.github.io/NetScope/) · [**Download the standalone HTML**](NetScope_Networking_Workbench.html)
-
+  <img src="assets/netscope-icon.svg" width="128" alt="NetScope icon">
+  <h1>NetScope</h1>
+  <p><strong>IP & Networking Workbench</strong></p>
+  <p>Lightweight, responsive calculators for IPv4, IPv6, subnet planning, routing, conversions, performance and packet analysis.</p>
+  <p><strong>Standalone HTML · No installation · Offline capable · Desktop & mobile</strong></p>
 </div>
 
-> **Deployment note:** The online demo will be available after GitHub Pages is enabled in the repository settings. The downloadable HTML already works offline.
+### Start here
 
-**Explore the interactive workbench:** [Launch NetScope](https://alihosseiniyash.github.io/NetScope/) · [Download the offline version](NetScope_Networking_Workbench.html)
+**[Launch NetScope online](https://alihosseiniyash.github.io/NetScope/)** · **[Download the offline HTML](https://alihosseiniyash.github.io/NetScope/download.html)** · **[Browse source code](https://github.com/alihosseiniyash/NetScope)**
+
+The online demo is hosted through GitHub Pages. The downloadable version is one self-contained HTML file that works without an internet connection.
 
 ## Features
 
@@ -33,23 +28,17 @@ A lightweight, responsive networking calculator for IPv4, IPv6, subnet planning,
 
 ## Getting started
 
-### Use online
+### Use the online app
 
-Open the [NetScope web app](https://alihosseiniyash.github.io/NetScope/) once GitHub Pages is enabled.
+Open **[NetScope's live calculator](https://alihosseiniyash.github.io/NetScope/)** in a desktop or mobile browser.
 
-### Run offline (no server required)
+### Download and use offline
 
-1. Download [`NetScope_Networking_Workbench.html`](NetScope_Networking_Workbench.html).
-2. Open it in a recent Chrome, Edge, Firefox, or Safari browser.
-3. Start calculating; the app doesn't require an internet connection.
+1. Open the **[Download page](https://alihosseiniyash.github.io/NetScope/download.html)**.
+2. Select **Download standalone HTML** to save `NetScope_Networking_Workbench.html`.
+3. Open the downloaded file in Chrome, Edge, Firefox, or Safari. All calculations work locally.
 
-The downloadable HTML contains its CSS and JavaScript inline. The website version (`index.html`) is the same app with a separate SVG favicon.
-
-## Publish the web demo
-
-In this repository, open **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, choose **main** and **/(root)**, then save. Once GitHub reports the site as deployed, the live URL should be:
-
-https://alihosseiniyash.github.io/NetScope/
+**Alternative:** [View the standalone HTML in the repository](NetScope_Networking_Workbench.html). GitHub's repository file view shows source code, so use the Download page above for the easiest file download.
 
 ## About the project
 
