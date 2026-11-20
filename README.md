@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/NetScope_Logo.png" width="170" alt="NetScope logo">
+<img src="assets/netscope-icon.svg" width="170" alt="NetScope logo">
 
 # NetScope
 ### IP & Networking Workbench
@@ -13,9 +13,9 @@ A lightweight, responsive networking calculator for IPv4, IPv6, subnet planning,
 
 </div>
 
-> **Deployment note:** The online demo works once GitHub Pages has been enabled for this repository. Until then, download the HTML file and open it locally.
+> **Deployment note:** The online demo will be available after GitHub Pages is enabled in the repository settings. The downloadable HTML already works offline.
 
-![NetScope overview on desktop](assets/screenshots/desktop.png)
+**Explore the interactive workbench:** [Launch NetScope](https://alihosseiniyash.github.io/NetScope/) · [Download the offline version](NetScope_Networking_Workbench.html)
 
 ## Features
 
@@ -44,19 +44,6 @@ Open the [NetScope web app](https://alihosseiniyash.github.io/NetScope/) once Gi
 3. Start calculating; the app doesn't require an internet connection.
 
 The downloadable HTML contains its CSS and JavaScript inline. The website version (`index.html`) is the same app with separate favicon links for browser and mobile shortcuts.
-
-## Screenshots
-
-| VLSM planning | IPv6 tools |
-|---|---|
-| <img src="assets/screenshots/vlsm.png" alt="VLSM planner" width="480"> | <img src="assets/screenshots/ipv6.png" alt="IPv6 calculator" width="480"> |
-
-<details>
-<summary>Mobile preview</summary>
-
-<img src="assets/screenshots/mobile.png" alt="NetScope mobile layout" width="320">
-
-</details>
 
 ## About the project
 
